@@ -1,0 +1,1329 @@
+@media (min-width: 320px) and (max-width: 575.98px) {
+
+    /* =====================common css part start=========================== */
+    .title h2 {
+        font-size: 30px;
+        line-height: 38px;
+        padding: 0 20px;
+
+    }
+
+    .title p {
+        padding: 0 20px;
+    }
+
+    /* =====================common css part end=========================== */
+    /* =====================navbar part start=========================== */
+    #navbar_part {
+        top: 0;
+        background: black;
+    }
+
+    #navbar_part .navbar .navbar-nav {
+
+        text-align: center;
+    }
+
+    #navbar_part .navbar .navbar-nav .nav-item {
+        margin-left: 0px;
+
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    #navbar_part .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 15px;
+    }
+
+
+    .navbar .navbar-collapse {
+        padding: 20px 0;
+
+    }
+
+    .navbar .navbar-toggler {
+        border: 0;
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .navbar-toggler i {
+        color: white;
+
+    }
+
+
+    /* =====================navbar part end=========================== */
+    /* =====================banner part start=========================== */
+    #banner_part .banner .overlay {
+        padding: 130px 0px 38px;
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text h1 {
+        font-size: 30px;
+        width: auto;
+        padding: 0 20px;
+
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text p {
+        font-size: 15px;
+        width: auto;
+        margin: 20px auto 25px;
+        padding: 0 20px;
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text a {
+        font-size: 15px;
+        padding: 10px 25px;
+
+    }
+
+    #banner_part .slick-dots {
+        bottom: -2px;
+
+    }
+
+    /* =====================banner part end=========================== */
+    /* =====================counter part start=========================== */
+    #counter_part {
+        margin: 70px 0 70px;
+    }
+
+    #counter_part .main {
+        padding: 40px 20px;
+        border-radius: 10px;
+    }
+
+    #counter_part .main .left h3 {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    #counter_part .main .left h2 {
+        width: auto;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+    }
+
+    #counter_part .main .right {
+        justify-content: start;
+        flex-direction: column;
+        align-items: center;
+
+    }
+
+    #counter_part .main .right .count {
+        margin: 30px 0 0;
+        text-align: center;
+
+    }
+
+    #counter_part .main .right h2 {
+        margin-bottom: 0px;
+        font-size: 40px;
+    }
+
+
+    /* =====================counter part end=========================== */
+    /* =====================service_part start=========================== */
+    #service_part .title p {
+        width: auto;
+        margin: 10px auto 40px;
+    }
+
+    #service_part .service_item {
+
+        padding: 25px 20px;
+
+    }
+
+    #service_part .service_item h4 {
+        margin: 15px 0 20px;
+    }
+
+    /* =====================service_part end=========================== */
+    /* =====================work_part start=========================== */
+    #work_part {
+        padding: 60px 0;
+    }
+
+    #work_part .title p {
+        margin: 10px auto 56px;
+        width: auto;
+    }
+
+    #work_part .work_item p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    /* =====================work_part end=========================== */
+    /* =====================agency_part start=========================== */
+    #agency_part {
+        padding: 63px 0 0;
+    }
+
+    #agency_part .title h2 {
+        width: auto;
+    }
+
+
+    #agency_part .title p {
+        width: auto;
+        margin: 20px 0 100px;
+    }
+
+    #agency_part .main .top {
+        margin-bottom: 80px;
+        text-align: center;
+    }
+
+    #agency_part .main .top p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #agency_part .picture {
+        display: none;
+    }
+
+
+    /* =====================agency_part end=========================== */
+    /* =====================review_part start=========================== */
+    #review_part {
+        padding: 0 0 100px;
+    }
+
+    #review_part .title p {
+        width: auto;
+    }
+
+    #review_part .main {
+        margin-top: 50px;
+    }
+
+    #review_part .main .review {
+        padding: 36px 21px;
+
+    }
+
+    /* =====================review_part end=========================== */
+    /* =====================form_part start=========================== */
+    #form_part {
+        padding: 60px 0;
+    }
+
+    #form_part .text {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    #form_part .text h2 {
+        font-size: 30px;
+        line-height: 38px;
+        width: auto;
+        padding: 0 20px;
+
+    }
+
+    #form_part .text p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #form_part .form {
+        padding: 30px 15px;
+        width: 100%;
+        border-radius: 10px;
+
+    }
+
+    #form_part .form form label {
+        margin-bottom: 4px;
+    }
+
+    #form_part .form form input {
+        padding: 10px 18px;
+        font-size: 13px;
+    }
+
+    #form_part .form form button {
+
+        font-size: 16px;
+        padding: 10px 0;
+
+    }
+
+    /* =====================form_part end=========================== */
+    /* =====================contact_part start=========================== */
+    #contact_part {
+        padding: 60px 0 30px;
+    }
+
+    #contact_part .left {
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #contact_part .left p {
+        width: auto;
+        margin-top: 25px;
+        padding: 0 20px;
+    }
+
+    #contact_part .right {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    #contact_part .right p {
+        margin-bottom: 5px;
+    }
+
+
+
+    /* =====================contact_part end=========================== */
+    /* =====================footer_part start=========================== */
+    #footer p {
+        padding: 15px 0;
+    }
+
+    /* =====================footer_part end=========================== */
+}
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* =====================common css part start=========================== */
+    .title h2 {
+        font-size: 30px;
+        line-height: 38px;
+        padding: 0 20px;
+
+    }
+
+    .title p {
+        padding: 0 20px;
+    }
+
+    /* =====================common css part end=========================== */
+    /* =====================navbar part start=========================== */
+    #navbar_part {
+        top: 0;
+        background: black;
+    }
+
+    #navbar_part .navbar .navbar-nav {
+
+        text-align: center;
+    }
+
+    #navbar_part .navbar .navbar-nav .nav-item {
+        margin-left: 0px;
+
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    #navbar_part .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 15px;
+    }
+
+
+    .navbar .navbar-collapse {
+        padding: 20px 0;
+
+    }
+
+    .navbar .navbar-toggler {
+        border: 0;
+
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .navbar-toggler i {
+        color: white;
+
+    }
+
+
+    /* =====================navbar part end=========================== */
+    /* =====================banner part start=========================== */
+    #banner_part .banner .overlay {
+        padding: 130px 0px 38px;
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text h1 {
+        font-size: 30px;
+        width: auto;
+        padding: 0 20px;
+
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text p {
+        font-size: 15px;
+        width: auto;
+        margin: 20px auto 25px;
+        padding: 0 20px;
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text a {
+        font-size: 15px;
+        padding: 10px 25px;
+
+    }
+
+    #banner_part .slick-dots {
+        bottom: -2px;
+
+    }
+
+    /* =====================banner part end=========================== */
+    /* =====================counter part start=========================== */
+    #counter_part {
+        margin: 70px 0 70px;
+    }
+
+    #counter_part .main {
+        padding: 40px 20px;
+        border-radius: 10px;
+    }
+
+    #counter_part .main .left h3 {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    #counter_part .main .left h2 {
+        width: auto;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        padding: 0px 55px;
+    }
+
+    #counter_part .main .right {
+        justify-content: space-between;
+        flex-direction: row;
+
+    }
+
+    #counter_part .main .right .count {
+        margin: 30px 0 0;
+        text-align: center;
+
+    }
+
+    #counter_part .main .right h2 {
+        margin-bottom: 0px;
+        font-size: 35px;
+    }
+
+    #counter_part .main .right p {
+        font-size: 16px;
+
+    }
+
+
+    /* =====================counter part end=========================== */
+    /* =====================service_part start=========================== */
+    #service_part .title p {
+        width: auto;
+        margin: 10px auto 40px;
+    }
+
+    #service_part .service_item {
+
+        padding: 25px 20px;
+
+    }
+
+    #service_part .service_item h4 {
+        margin: 15px 0 20px;
+    }
+
+    /* =====================service_part end=========================== */
+    /* =====================work_part start=========================== */
+    #work_part {
+        padding: 60px 0;
+    }
+
+    #work_part .title p {
+        margin: 10px auto 56px;
+        width: auto;
+    }
+
+    #work_part .work_item h4 {
+        font-size: 17px;
+
+    }
+
+    #work_part .work_item p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+
+    /* =====================work_part end=========================== */
+    /* =====================agency_part start=========================== */
+    #agency_part {
+        padding: 63px 0 0;
+    }
+
+    .agency01 {
+        order: 3;
+    }
+
+    .agency02 {
+        order: 2;
+    }
+
+    .agency03 {
+        order: 1;
+    }
+
+    #agency_part .title h2 {
+        width: auto;
+    }
+
+
+    #agency_part .title p {
+        width: auto;
+        margin: 20px 0 40px;
+    }
+
+    #agency_part .main {
+        display: flex;
+    }
+
+    #agency_part .main .top {
+        margin-bottom: 80px;
+        text-align: center;
+    }
+
+    #agency_part .main .top p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #agency_part .picture {
+        display: block;
+        width: 80%;
+        margin: 0 auto 40px;
+
+
+    }
+
+
+
+    /* =====================agency_part end=========================== */
+    /* =====================review_part start=========================== */
+
+    #review_part {
+        padding: 0 0 100px;
+    }
+
+    #review_part .title p {
+        width: auto;
+    }
+
+    #review_part .main {
+        margin-top: 50px;
+    }
+
+    #review_part .main .review {
+        padding: 36px 21px;
+
+    }
+
+
+    /* =====================review_part end=========================== */
+    /* =====================form_part start=========================== */
+    #form_part {
+        padding: 60px 0;
+    }
+
+    #form_part .text {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    #form_part .text h2 {
+        font-size: 30px;
+        line-height: 38px;
+        width: auto;
+        padding: 0 20px;
+
+    }
+
+    #form_part .text p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #form_part .form {
+        padding: 40px 40px;
+        width: 100%;
+        border-radius: 10px;
+
+    }
+
+    #form_part .form form label {
+        margin-bottom: 4px;
+    }
+
+    #form_part .form form input {
+        padding: 10px 18px;
+        font-size: 13px;
+    }
+
+    #form_part .form form button {
+
+        font-size: 16px;
+        padding: 10px 0;
+
+    }
+
+    /* =====================form_part end=========================== */
+    /* =====================contact_part start=========================== */
+    #contact_part {
+        padding: 60px 0 30px;
+    }
+
+    #contact_part .left {
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #contact_part .left p {
+        width: auto;
+        margin-top: 25px;
+        padding: 0 20px;
+    }
+
+    #contact_part .right {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    #contact_part .right p {
+        margin-bottom: 5px;
+    }
+
+    #contact_part ul li a {
+        line-height: 28px;
+    }
+
+
+
+    /* =====================contact_part end=========================== */
+    /* =====================footer_part start=========================== */
+    #footer p {
+        padding: 15px 0;
+    }
+
+    /* =====================footer_part end=========================== */
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* =====================common css part start=========================== */
+    .title h2 {
+        font-size: 30px;
+        line-height: 38px;
+        padding: 0 20px;
+
+    }
+
+    .title p {
+        padding: 0 20px;
+    }
+
+    /* =====================common css part end=========================== */
+    /* =====================navbar part start=========================== */
+    #navbar_part {
+        top: 0;
+        background: black;
+    }
+
+    #navbar_part .navbar .navbar-nav {
+
+        text-align: center;
+    }
+
+    #navbar_part .navbar .navbar-nav .nav-item {
+        margin-left: 0px;
+
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    #navbar_part .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 15px;
+    }
+
+
+    .navbar .navbar-collapse {
+        padding: 20px 0;
+
+    }
+
+    .navbar .navbar-toggler {
+        border: 0;
+
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .navbar-toggler i {
+        color: white;
+
+    }
+
+
+    /* =====================navbar part end=========================== */
+    /* =====================banner part start=========================== */
+    #banner_part .banner .overlay {
+        padding: 130px 0px 38px;
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text h1 {
+        font-size: 40px;
+        width: auto;
+        padding: 0 116px;
+
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text p {
+        font-size: 15px;
+        width: auto;
+        margin: 20px auto 25px;
+        padding: 0px 45px;
+    }
+
+    #banner_part .banner .overlay .row .col-lg-12 .text a {
+        font-size: 15px;
+        padding: 10px 25px;
+
+    }
+
+    #banner_part .slick-dots {
+        bottom: -2px;
+
+    }
+
+    /* =====================banner part end=========================== */
+    /* =====================counter part start=========================== */
+    #counter_part {
+        margin: 70px 0 70px;
+    }
+
+    #counter_part .main {
+        padding: 40px 20px;
+        border-radius: 10px;
+    }
+
+    #counter_part .main .left h3 {
+        margin-bottom: 5px;
+        text-align: center;
+    }
+
+    #counter_part .main .left h2 {
+        width: auto;
+        font-size: 30px;
+        line-height: 35px;
+        text-align: center;
+        padding: 0px 55px;
+    }
+
+    #counter_part .main .right {
+        justify-content: space-around;
+        flex-direction: row;
+
+    }
+
+    #counter_part .main .right .count {
+        margin: 30px 0 0;
+        text-align: center;
+
+    }
+
+    #counter_part .main .right h2 {
+        margin-bottom: 0px;
+        font-size: 35px;
+    }
+
+    #counter_part .main .right p {
+        font-size: 16px;
+
+    }
+
+
+    /* =====================counter part end=========================== */
+    /* =====================service_part start=========================== */
+    #service_part .title p {
+        width: auto;
+        margin: 10px auto 40px;
+    }
+
+    #service_part .service_item {
+
+        padding: 25px 20px;
+
+    }
+
+    #service_part .service_item h4 {
+        margin: 15px 0 20px;
+    }
+
+    /* =====================service_part end=========================== */
+    /* =====================work_part start=========================== */
+    #work_part {
+        padding: 60px 0;
+    }
+
+    #work_part .title p {
+        margin: 10px auto 56px;
+        width: auto;
+    }
+
+    #work_part .work_item h4 {
+        font-size: 17px;
+
+    }
+
+    #work_part .work_item p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+
+    /* =====================work_part end=========================== */
+    /* =====================agency_part start=========================== */
+    #agency_part {
+        padding: 63px 0 0;
+    }
+
+    .agency01 {
+        order: 3;
+    }
+
+    .agency02 {
+        order: 2;
+    }
+
+    .agency03 {
+        order: 1;
+    }
+
+    #agency_part .title h2 {
+        width: auto;
+    }
+
+
+    #agency_part .title p {
+        width: auto;
+        margin: 20px 0 40px;
+    }
+
+    #agency_part .main {
+        display: flex;
+    }
+
+    #agency_part .main .top {
+        margin-bottom: 80px;
+        text-align: center;
+    }
+
+    #agency_part .main .top p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #agency_part .picture {
+        display: block;
+        width: 80%;
+        margin: 0 auto 40px;
+
+
+    }
+
+
+
+    /* =====================agency_part end=========================== */
+    /* =====================review_part start=========================== */
+
+    #review_part {
+        padding: 0 0 100px;
+    }
+
+    #review_part .title p {
+        width: auto;
+    }
+
+    #review_part .main {
+        margin-top: 50px;
+    }
+
+    #review_part .main .review {
+        padding: 36px 21px;
+
+
+    }
+
+    /* =====================review_part end=========================== */
+    /* =====================form_part start=========================== */
+    #form_part {
+        padding: 60px 0;
+    }
+
+    #form_part .text {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    #form_part .text h2 {
+        font-size: 30px;
+        line-height: 38px;
+        width: auto;
+        padding: 0 20px;
+
+    }
+
+    #form_part .text p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #form_part .form {
+        padding: 30px;
+        width: 100%;
+        border-radius: 10px;
+
+    }
+
+    #form_part .form form label {
+        margin-bottom: 4px;
+    }
+
+    #form_part .form form input {
+        padding: 10px 18px;
+        font-size: 13px;
+    }
+
+    #form_part .form form button {
+
+        font-size: 16px;
+        padding: 10px 0;
+
+    }
+
+    /* =====================form_part end=========================== */
+    /* =====================contact_part start=========================== */
+    #contact_part {
+        padding: 60px 0 30px;
+    }
+
+    #contact_part .left {
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #contact_part .left p {
+        width: auto;
+        margin-top: 25px;
+        padding: 0 20px;
+    }
+
+    #contact_part .right {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    #contact_part .right p {
+        margin-bottom: 5px;
+    }
+
+    #contact_part ul li a {
+        line-height: 28px;
+    }
+
+
+
+    /* =====================contact_part end=========================== */
+    /* =====================footer_part start=========================== */
+    #footer p {
+        padding: 15px 0;
+    }
+
+    /* =====================footer_part end=========================== */
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* =====================common css part start=========================== */
+    .title h2 {
+        font-size: 30px;
+        line-height: 38px;
+        padding: 0 20px;
+
+    }
+
+    .title p {
+        padding: 0px 140px;
+    }
+
+    /* =====================common css part end=========================== */
+    /* =====================navbar part start=========================== */
+    #navbar_part {
+        top: 0;
+        background: black;
+    }
+
+    #navbar_part .navbar .navbar-nav {
+
+        text-align: center;
+    }
+
+    #navbar_part .navbar .navbar-nav .nav-item {
+        margin-left: 40px;
+
+    }
+
+    .d-flex {
+        justify-content: center;
+    }
+
+    #navbar_part .navbar form .btn {
+        padding: 10px 20px !important;
+        font-size: 15px;
+    }
+
+
+    .navbar .navbar-collapse {
+        padding: 20px 0;
+
+    }
+
+    .navbar .navbar-toggler {
+        border: 0;
+
+    }
+
+    .navbar .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .navbar .navbar-toggler i {
+        color: white;
+
+    }
+
+
+    /* =====================navbar part end=========================== */
+    /* =====================banner part start=========================== */
+    #banner_part .overlay {
+        padding: 170px 0px 100px;
+    }
+
+    #banner_part .overlay .row .col-lg-12 .text h1 {
+        font-size: 40px;
+        width: auto;
+        padding: 0 116px;
+
+    }
+
+    #banner_part .overlay .row .col-lg-12 .text p {
+        font-size: 15px;
+        width: auto;
+        margin: 20px auto 25px;
+        padding: 0px 45px;
+    }
+
+    #banner_part .overlay .row .col-lg-12 .text a {
+        font-size: 18px;
+        padding: 15px 30px;
+
+    }
+
+    /* =====================banner part end=========================== */
+    /* =====================counter part start=========================== */
+    #counter_part {
+        margin: 70px 0 70px;
+    }
+
+    #counter_part .main {
+        padding: 40px 20px;
+        border-radius: 15px;
+    }
+
+    #counter_part .main .left h3 {
+        margin-bottom: 10px;
+
+    }
+
+    #counter_part .main .left h2 {
+
+        font-size: 30px;
+        line-height: 35px;
+
+
+    }
+
+    #counter_part .main .right .count {
+        margin-left: 93px;
+    }
+
+
+
+    #counter_part .main .right h2 {
+        margin-bottom: 0px;
+        font-size: 35px;
+    }
+
+    #counter_part .main .right p {
+        font-size: 16px;
+
+    }
+
+
+    /* =====================counter part end=========================== */
+    /* =====================service_part start=========================== */
+    #service_part .title p {
+        width: auto;
+        margin: 10px auto 40px;
+    }
+
+    #service_part .service_item {
+
+        padding: 25px 20px;
+
+    }
+
+    #service_part .service_item h4 {
+        margin: 15px 0 20px;
+    }
+
+    /* =====================service_part end=========================== */
+    /* =====================work_part start=========================== */
+    #work_part {
+        padding: 60px 0;
+    }
+
+    #work_part .title p {
+        margin: 10px auto 56px;
+        width: auto;
+    }
+
+    #work_part .work_item h4 {
+        font-size: 17px;
+
+    }
+
+    #work_part .work_item p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+
+    /* =====================work_part end=========================== */
+    /* =====================agency_part start=========================== */
+    #agency_part {
+        padding: 63px 0 0;
+    }
+
+
+    #agency_part .title h2 {
+        width: auto;
+    }
+
+
+    #agency_part .title p {
+        width: auto;
+        margin: 20px 0 40px;
+    }
+
+
+
+    #agency_part .main .top {
+        margin-bottom: 80px;
+        text-align: center;
+    }
+
+    #agency_part .main .top p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #agency_part .agency03 {
+        display: flex;
+        align-items: center;
+    }
+
+    #agency_part .picture {
+        border-radius: 30px;
+        width: 100%;
+
+    }
+
+
+
+
+    /* =====================agency_part end=========================== */
+    /* =====================review_part start=========================== */
+
+    #review_part {
+        padding: 0 0 100px;
+    }
+
+    #review_part .title p {
+        width: auto;
+    }
+
+    #review_part .main {
+        margin-top: 50px;
+    }
+
+    /* =====================review_part end=========================== */
+    /* =====================form_part start=========================== */
+    #form_part {
+        padding: 60px 0;
+    }
+
+    #form_part .text {
+        text-align: center;
+        margin-bottom: 50px;
+    }
+
+    #form_part .text h2 {
+        font-size: 30px;
+        line-height: 38px;
+        width: auto;
+        padding: 0 20px;
+
+    }
+
+    #form_part .text p {
+        width: auto;
+        padding: 0 20px;
+    }
+
+    #form_part .form {
+        padding: 30px;
+        width: 100%;
+        border-radius: 10px;
+
+    }
+
+    #form_part .form form label {
+        margin-bottom: 4px;
+    }
+
+    #form_part .form form input {
+        padding: 10px 18px;
+        font-size: 13px;
+    }
+
+    #form_part .form form button {
+
+        font-size: 16px;
+        padding: 10px 0;
+
+    }
+
+    /* =====================form_part end=========================== */
+    /* =====================contact_part start=========================== */
+    #contact_part {
+        padding: 60px 0 30px;
+    }
+
+    #contact_part .left {
+        align-items: center;
+        text-align: center;
+
+    }
+
+    #contact_part .left p {
+        width: auto;
+        margin-top: 25px;
+        padding: 0 20px;
+    }
+
+    #contact_part .right {
+        margin-top: 40px;
+        text-align: center;
+    }
+
+    #contact_part .right p {
+        margin-bottom: 5px;
+    }
+
+    #contact_part ul li a {
+        line-height: 28px;
+    }
+
+
+
+    /* =====================contact_part end=========================== */
+    /* =====================footer_part start=========================== */
+    #footer p {
+        padding: 15px 0;
+    }
+
+    /* =====================footer_part end=========================== */
+}
+
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* =====================banner_part start=========================== */
+    #banner_part .overlay {
+        padding: 226px 0px 107px;
+    }
+
+    /* =====================banner_part end=========================== */
+    /* =====================counter_part start=========================== */
+    #counter_part .main {
+
+        padding: 50px 50px;
+
+    }
+
+    #counter_part .main .right .count {
+        margin-left: 84px;
+    }
+
+    /* =====================counter_part end=========================== */
+    /* =====================agency_part start=========================== */
+    #agency_part .agency03 {
+        display: flex;
+        align-items: center;
+    }
+
+    #agency_part .picture {
+        border-radius: 30px;
+        width: 100%;
+
+    }
+
+    /* =====================agency_part end=========================== */
+}
